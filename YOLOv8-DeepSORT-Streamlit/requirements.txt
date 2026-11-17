@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+requests
+plotly
+streamlit
+deep-sort-realtime
+ultralytics
+easyocr
+librosa
+sounddevice

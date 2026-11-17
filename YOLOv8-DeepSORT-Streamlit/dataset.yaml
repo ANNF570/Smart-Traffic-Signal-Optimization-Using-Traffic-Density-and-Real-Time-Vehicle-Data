@@ -1,0 +1,14 @@
+path: dataset
+train: images/train
+val: images/val
+
+names:
+  0: car
+  1: bike
+  2: bus
+  3: truck
+  4: auto
+  5: ambulance
+  6: person
+  7: traffic light
+  8: police

@@ -1,0 +1,33 @@
+# Python environments and cache
+**/venv/
+**/.venv/
+**/env/
+**/__pycache__/
+*.pyc
+
+# Training datasets and outputs
+**/dataset/
+**/datasets/
+**/SirenDataset/
+**/trafficnewdataset/
+**/videos/
+**/runs/
+
+# Large media and archives
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.zip
+*.wav
+
+# Oversized model
+YOLOv8-DeepSORT-Streamlit/SmartTraffic/yolov8x.pt
+
+# Temporary files
+tempCodeRunnerFile.*
+*.log
+
+# IDE
+.vscode/
